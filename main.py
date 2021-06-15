@@ -1740,7 +1740,7 @@ class MyClient(discord.Client):
                         verify_code = extra_list[1]
                         
             me = "globaltubediscord@gmail.com"
-            pw = str("x01221x9?")
+            pw = str("x")
             second_mail = str(email) 
 
             msg = MIMEMultipart('alternative')
